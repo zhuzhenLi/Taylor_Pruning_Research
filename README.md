@@ -31,6 +31,8 @@ https://drive.google.com/file/d/1GT8yImRyDZp5F13zdfGNb6E_krDk3LyD/view?usp=shari
 https://github.com/zhuzhenLi/Taylor_Pruning_Research/tree/master/runs/googlenet
 ``` 
 
+* problem: pruning layer is 0, needs to figure out 
+
 3. inception_v3 (not successfully run yet)
   * Trying to run: 
   
