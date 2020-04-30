@@ -1,0 +1,876 @@
+method 22
+pruned_neurons 3100
+pruning_iterations_done 32
+neuron_units 23460
+all_neuron_units 26560
+threshold_now 4.518714291634751e-09
+groups_total 26560
+
+Layer: 0
+units: 64
+pruned_perc: [64, 64]
+
+Layer: 1
+units: 64
+pruned_perc: [8, 64]
+
+Layer: 2
+units: 64
+pruned_perc: [3, 64]
+
+Layer: 3
+units: 256
+pruned_perc: [21, 256]
+
+Layer: 4
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 5
+units: 64
+pruned_perc: [4, 64]
+
+Layer: 6
+units: 64
+pruned_perc: [0, 64]
+
+Layer: 7
+units: 256
+pruned_perc: [8, 256]
+
+Layer: 8
+units: 64
+pruned_perc: [0, 64]
+
+Layer: 9
+units: 64
+pruned_perc: [0, 64]
+
+Layer: 10
+units: 256
+pruned_perc: [9, 256]
+
+Layer: 11
+units: 128
+pruned_perc: [1, 128]
+
+Layer: 12
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 13
+units: 512
+pruned_perc: [83, 512]
+
+Layer: 14
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 15
+units: 128
+pruned_perc: [4, 128]
+
+Layer: 16
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 17
+units: 512
+pruned_perc: [111, 512]
+
+Layer: 18
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 19
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 20
+units: 512
+pruned_perc: [4, 512]
+
+Layer: 21
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 22
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 23
+units: 512
+pruned_perc: [61, 512]
+
+Layer: 24
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 25
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 26
+units: 1024
+pruned_perc: [65, 1024]
+
+Layer: 27
+units: 1024
+pruned_perc: [0, 1024]
+
+Layer: 28
+units: 256
+pruned_perc: [1, 256]
+
+Layer: 29
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 30
+units: 1024
+pruned_perc: [69, 1024]
+
+Layer: 31
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 32
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 33
+units: 1024
+pruned_perc: [182, 1024]
+
+Layer: 34
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 35
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 36
+units: 1024
+pruned_perc: [264, 1024]
+
+Layer: 37
+units: 256
+pruned_perc: [1, 256]
+
+Layer: 38
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 39
+units: 1024
+pruned_perc: [338, 1024]
+
+Layer: 40
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 41
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 42
+units: 1024
+pruned_perc: [170, 1024]
+
+Layer: 43
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 44
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 45
+units: 2048
+pruned_perc: [184, 2048]
+
+Layer: 46
+units: 2048
+pruned_perc: [3, 2048]
+
+Layer: 47
+units: 512
+pruned_perc: [3, 512]
+
+Layer: 48
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 49
+units: 2048
+pruned_perc: [493, 2048]
+
+Layer: 50
+units: 512
+pruned_perc: [5, 512]
+
+Layer: 51
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 52
+units: 2048
+pruned_perc: [1041, 2048]
+method 22
+pruned_neurons 3100
+pruning_iterations_done 32
+neuron_units 23460
+all_neuron_units 26560
+threshold_now 2.5012920623623813e-09
+groups_total 26560
+
+Layer: 0
+units: 64
+pruned_perc: [64, 64]
+
+Layer: 1
+units: 64
+pruned_perc: [8, 64]
+
+Layer: 2
+units: 64
+pruned_perc: [3, 64]
+
+Layer: 3
+units: 256
+pruned_perc: [19, 256]
+
+Layer: 4
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 5
+units: 64
+pruned_perc: [4, 64]
+
+Layer: 6
+units: 64
+pruned_perc: [0, 64]
+
+Layer: 7
+units: 256
+pruned_perc: [5, 256]
+
+Layer: 8
+units: 64
+pruned_perc: [0, 64]
+
+Layer: 9
+units: 64
+pruned_perc: [0, 64]
+
+Layer: 10
+units: 256
+pruned_perc: [11, 256]
+
+Layer: 11
+units: 128
+pruned_perc: [1, 128]
+
+Layer: 12
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 13
+units: 512
+pruned_perc: [78, 512]
+
+Layer: 14
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 15
+units: 128
+pruned_perc: [6, 128]
+
+Layer: 16
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 17
+units: 512
+pruned_perc: [109, 512]
+
+Layer: 18
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 19
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 20
+units: 512
+pruned_perc: [2, 512]
+
+Layer: 21
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 22
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 23
+units: 512
+pruned_perc: [72, 512]
+
+Layer: 24
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 25
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 26
+units: 1024
+pruned_perc: [67, 1024]
+
+Layer: 27
+units: 1024
+pruned_perc: [0, 1024]
+
+Layer: 28
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 29
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 30
+units: 1024
+pruned_perc: [65, 1024]
+
+Layer: 31
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 32
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 33
+units: 1024
+pruned_perc: [157, 1024]
+
+Layer: 34
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 35
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 36
+units: 1024
+pruned_perc: [238, 1024]
+
+Layer: 37
+units: 256
+pruned_perc: [1, 256]
+
+Layer: 38
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 39
+units: 1024
+pruned_perc: [305, 1024]
+
+Layer: 40
+units: 256
+pruned_perc: [1, 256]
+
+Layer: 41
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 42
+units: 1024
+pruned_perc: [193, 1024]
+
+Layer: 43
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 44
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 45
+units: 2048
+pruned_perc: [186, 2048]
+
+Layer: 46
+units: 2048
+pruned_perc: [2, 2048]
+
+Layer: 47
+units: 512
+pruned_perc: [4, 512]
+
+Layer: 48
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 49
+units: 2048
+pruned_perc: [474, 2048]
+
+Layer: 50
+units: 512
+pruned_perc: [4, 512]
+
+Layer: 51
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 52
+units: 2048
+pruned_perc: [1121, 2048]
+method 22
+pruned_neurons 3100
+pruning_iterations_done 32
+neuron_units 23460
+all_neuron_units 26560
+threshold_now 2.442219537712731e-09
+groups_total 26560
+
+Layer: 0
+units: 64
+pruned_perc: [64, 64]
+
+Layer: 1
+units: 64
+pruned_perc: [8, 64]
+
+Layer: 2
+units: 64
+pruned_perc: [3, 64]
+
+Layer: 3
+units: 256
+pruned_perc: [26, 256]
+
+Layer: 4
+units: 256
+pruned_perc: [1, 256]
+
+Layer: 5
+units: 64
+pruned_perc: [4, 64]
+
+Layer: 6
+units: 64
+pruned_perc: [0, 64]
+
+Layer: 7
+units: 256
+pruned_perc: [9, 256]
+
+Layer: 8
+units: 64
+pruned_perc: [0, 64]
+
+Layer: 9
+units: 64
+pruned_perc: [0, 64]
+
+Layer: 10
+units: 256
+pruned_perc: [6, 256]
+
+Layer: 11
+units: 128
+pruned_perc: [1, 128]
+
+Layer: 12
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 13
+units: 512
+pruned_perc: [74, 512]
+
+Layer: 14
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 15
+units: 128
+pruned_perc: [4, 128]
+
+Layer: 16
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 17
+units: 512
+pruned_perc: [68, 512]
+
+Layer: 18
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 19
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 20
+units: 512
+pruned_perc: [2, 512]
+
+Layer: 21
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 22
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 23
+units: 512
+pruned_perc: [59, 512]
+
+Layer: 24
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 25
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 26
+units: 1024
+pruned_perc: [68, 1024]
+
+Layer: 27
+units: 1024
+pruned_perc: [0, 1024]
+
+Layer: 28
+units: 256
+pruned_perc: [1, 256]
+
+Layer: 29
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 30
+units: 1024
+pruned_perc: [62, 1024]
+
+Layer: 31
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 32
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 33
+units: 1024
+pruned_perc: [163, 1024]
+
+Layer: 34
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 35
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 36
+units: 1024
+pruned_perc: [250, 1024]
+
+Layer: 37
+units: 256
+pruned_perc: [1, 256]
+
+Layer: 38
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 39
+units: 1024
+pruned_perc: [312, 1024]
+
+Layer: 40
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 41
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 42
+units: 1024
+pruned_perc: [212, 1024]
+
+Layer: 43
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 44
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 45
+units: 2048
+pruned_perc: [163, 2048]
+
+Layer: 46
+units: 2048
+pruned_perc: [3, 2048]
+
+Layer: 47
+units: 512
+pruned_perc: [9, 512]
+
+Layer: 48
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 49
+units: 2048
+pruned_perc: [441, 2048]
+
+Layer: 50
+units: 512
+pruned_perc: [4, 512]
+
+Layer: 51
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 52
+units: 2048
+pruned_perc: [1182, 2048]
+method 22
+pruned_neurons 3100
+pruning_iterations_done 32
+neuron_units 23460
+all_neuron_units 26560
+threshold_now 2.506058471851702e-09
+groups_total 26560
+
+Layer: 0
+units: 64
+pruned_perc: [64, 64]
+
+Layer: 1
+units: 64
+pruned_perc: [8, 64]
+
+Layer: 2
+units: 64
+pruned_perc: [3, 64]
+
+Layer: 3
+units: 256
+pruned_perc: [26, 256]
+
+Layer: 4
+units: 256
+pruned_perc: [1, 256]
+
+Layer: 5
+units: 64
+pruned_perc: [4, 64]
+
+Layer: 6
+units: 64
+pruned_perc: [0, 64]
+
+Layer: 7
+units: 256
+pruned_perc: [8, 256]
+
+Layer: 8
+units: 64
+pruned_perc: [0, 64]
+
+Layer: 9
+units: 64
+pruned_perc: [0, 64]
+
+Layer: 10
+units: 256
+pruned_perc: [5, 256]
+
+Layer: 11
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 12
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 13
+units: 512
+pruned_perc: [69, 512]
+
+Layer: 14
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 15
+units: 128
+pruned_perc: [4, 128]
+
+Layer: 16
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 17
+units: 512
+pruned_perc: [77, 512]
+
+Layer: 18
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 19
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 20
+units: 512
+pruned_perc: [3, 512]
+
+Layer: 21
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 22
+units: 128
+pruned_perc: [0, 128]
+
+Layer: 23
+units: 512
+pruned_perc: [57, 512]
+
+Layer: 24
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 25
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 26
+units: 1024
+pruned_perc: [66, 1024]
+
+Layer: 27
+units: 1024
+pruned_perc: [0, 1024]
+
+Layer: 28
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 29
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 30
+units: 1024
+pruned_perc: [57, 1024]
+
+Layer: 31
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 32
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 33
+units: 1024
+pruned_perc: [157, 1024]
+
+Layer: 34
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 35
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 36
+units: 1024
+pruned_perc: [232, 1024]
+
+Layer: 37
+units: 256
+pruned_perc: [1, 256]
+
+Layer: 38
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 39
+units: 1024
+pruned_perc: [303, 1024]
+
+Layer: 40
+units: 256
+pruned_perc: [1, 256]
+
+Layer: 41
+units: 256
+pruned_perc: [0, 256]
+
+Layer: 42
+units: 1024
+pruned_perc: [235, 1024]
+
+Layer: 43
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 44
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 45
+units: 2048
+pruned_perc: [167, 2048]
+
+Layer: 46
+units: 2048
+pruned_perc: [3, 2048]
+
+Layer: 47
+units: 512
+pruned_perc: [4, 512]
+
+Layer: 48
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 49
+units: 2048
+pruned_perc: [452, 2048]
+
+Layer: 50
+units: 512
+pruned_perc: [3, 512]
+
+Layer: 51
+units: 512
+pruned_perc: [0, 512]
+
+Layer: 52
+units: 2048
+pruned_perc: [1190, 2048]
