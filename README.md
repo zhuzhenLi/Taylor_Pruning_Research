@@ -19,6 +19,12 @@
 https://github.com/zhuzhenLi/Taylor_Pruning_Research/tree/master/runs/resnet50/resnet50_prune72
 ``` 
 
+* weights files are too large to upload on github, please download here, and put them under directory /runs/resnet50/resnet50_prune72/model :
+``` 
+https://drive.google.com/file/d/1GT8yImRyDZp5F13zdfGNb6E_krDk3LyD/view?usp=sharing 
+``` 
+
+
 2. googlenet 
 * log files are located at :
 ``` 
