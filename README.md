@@ -4,7 +4,7 @@
 ---
 
 ### Adjustments: 
-* Minor changes are made on the original code in order to succefully run the Taylor prune. 
+* Minor changes are made on the original code in order to succefully run the Taylor pruning. 
 
 * Also, because of the huge size limitation of Imagenet as the dataset, this Taylor Pruning has chosen CIFAR10 as data set. 
 
