@@ -13,7 +13,17 @@
 
 ### Experiments are conducted on a Titan Machine :
 1. resnet50
+* log files are located at :
+
+``` 
+https://github.com/zhuzhenLi/Taylor_Pruning_Research/tree/master/runs/resnet50/resnet50_prune72
+``` 
+
 2. googlenet 
+* log files are located at :
+``` 
+https://github.com/zhuzhenLi/Taylor_Pruning_Research/tree/master/runs/googlenet
+``` 
 
 3. inception_v3 (not successfully run yet)
   * Trying to run: 
@@ -23,7 +33,6 @@
   --momentum=0.9 --epochs=30 --batch-size=128 --pruning=True --seed=0 --model=inception_v3 \
   --mgpu=False --group_wd_coeff=1e-8 --wd=0.0 --tensorboard=True  --pruning-method=22 \
   --data=/data/cifar-10-batches-py/ --no_grad_clip=True 
-  
   ```
 
   Will have error:  
