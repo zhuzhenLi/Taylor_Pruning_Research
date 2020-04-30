@@ -1,0 +1,15 @@
+main.py --name=runs/googlenet/ --dataset=CIFAR10 --lr=0.001 --lr-decay-every=10 --momentum=0.9 --epochs=30 --batch-size=128 --pruning=True --seed=0 --model=googlenet --mgpu=False --group_wd_coeff=1e-8 --wd=0.0 --tensorboard=True --pruning-method=22 --data=/data/cifar-10-batches-py/ --no_grad_clip=True --pruning_config=./configs/googlenet_prune.json
+network structure
+googlenet --------------model_name-----------------
+Total pruning layers: 0
+[] ------------------self.parameters-----------
+pruning_engine.load_mask(): did not find mask file, will load nothing
+connect_gates_with_parameters_for_flops only supports resnet for now
+learning rate adjusted: 0.001 1
+Epoch: [1][0/390]	Time 1.934 (1.934)	Loss 8.9382 (8.9382)	Prec@1 0.000 (0.000)	Prec@5 0.781 (0.781)
+Epoch: [1][10/390]	Time 0.214 (0.264)	Loss 7.9014 (8.4842)	Prec@1 0.000 (0.142)	Prec@5 1.562 (0.781)
+Epoch: [1][20/390]	Time 0.213 (0.184)	Loss 6.3037 (7.7466)	Prec@1 3.125 (0.595)	Prec@5 8.594 (2.790)
+Epoch: [1][30/390]	Time 0.212 (0.155)	Loss 4.8117 (7.1023)	Prec@1 15.625 (2.193)	Prec@5 41.406 (8.165)
+[] -------------prune_network_criteria-----------
+[] -------------all_criteria-----------
+-1 ==============len(all_criteria)-1============

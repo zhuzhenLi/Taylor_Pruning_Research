@@ -1,0 +1,1 @@
+main.py --name=runs/googlenet/ --dataset=CIFAR10 --lr=0.001 --lr-decay-every=10 --momentum=0.9 --epochs=30 --batch-size=128 --pruning=True --seed=0 --model=googlenet --mgpu=False --group_wd_coeff=1e-8 --wd=0.0 --tensorboard=True --pruning-method=22 --data=/data/cifar-10-batches-py/ --no_grad_clip=True --pruning_config=./configs/googlenet_prune72.json
